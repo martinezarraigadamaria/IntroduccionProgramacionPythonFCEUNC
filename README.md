@@ -1,9 +1,12 @@
 # Introducción a la Programacion en Python FCEUNC
-En este repositorio se encuentra el contenido trabajado durante el trayecto de Nivelación.
+En este repositorio se encontrará el contenido trabajado durante el trayecto de Nivelación de Academia Data-Driven Bancor.
 
-- [Slides de Introducción](https://docs.google.com/presentation/d/1G4ojCvPbB6ZOC9ZAl5oS6rijwPTRWO0MTP26pz1sO0g/edit?usp=sharing)
+Durante 8 clases, se introducirán conceptos básicos de la programación y la programación en Python. Es posible seguir este curso sin instalar nada accediendo a los links de Google Colaboratory.
 
-Durante 8 clases, se introducen los conceptos básicos de la programación y la programación en Python. Es posible seguir este curso sin instalar nada accediendo a los links de Google Colaboratory.
+## Objetivos
+
+- Desarrollar las destrezas y conocimientos fundamentales sobre Python y recursos asociados.
+- Consolidar los aprendizajes, mediante su aplicación durante las sesiones.
 
 ## Clases
 Se puede acceder a las clases de este repositorio utilizando Google Colaboratory a partir de los siguientes links:
