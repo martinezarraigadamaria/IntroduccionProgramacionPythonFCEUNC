@@ -19,4 +19,5 @@ Se puede acceder a las clases de este repositorio utilizando Google Colaboratory
 
 - [Clase 1 - Elementos de Programación y Herramienta Principal](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase1.ipynb)
 
+- [Clase 2 - Tipos de Datos y Control de flujo](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase2.ipynb)
 
