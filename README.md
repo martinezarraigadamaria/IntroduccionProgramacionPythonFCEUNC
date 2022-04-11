@@ -22,3 +22,6 @@ Se puede acceder a las clases de este repositorio utilizando Google Colaboratory
 
 - [Clase 2 - Tipos de Datos y Control de flujo](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase2.ipynb)
 
+- [Clase 3 - Funciones y Estructuras de Datos](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase3.ipynb)
+
+
