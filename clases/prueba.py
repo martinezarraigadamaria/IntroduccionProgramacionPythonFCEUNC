@@ -1,2 +1,0 @@
-def mifuncion():
-    print("Exito!")
