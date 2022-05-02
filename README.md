@@ -24,6 +24,9 @@ Se puede acceder a las clases de este repositorio utilizando Google Colaboratory
 
 - [Clase 3 - Funciones y Estructuras de Datos](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase3.ipynb)
 
+- [Clase 4 - Librerías](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase4.ipynb)
+
+
 ## Ejercicios Resueltos
 
 - [Clase 1](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/ejerciciosResueltos/IntroProgPython_clase1_ejercicios.ipynb)
