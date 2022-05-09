@@ -26,6 +26,9 @@ Se puede acceder a las clases de este repositorio utilizando Google Colaboratory
 
 - [Clase 4 - Librerías](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase4.ipynb)
 
+- [Clase 5 - Inspección de DataFrames](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/IntroProgPython_clase5.ipynb)
+
+- [Material Extra - Copia Superficial y Copia Profunda](https://colab.research.google.com/github/martinezarraigadamaria/IntroduccionProgramacionPythonFCEUNC/blob/master/clases/copyVsDeepCopy.ipynb)
 
 ## Ejercicios Resueltos
 
